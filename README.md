@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @CModze
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Chuma Modze
+- 👀 I’m interested in software development 
+- 🌱 I’m currently know python, java, html, CSS,C, Delphi. I am currently learning Javascript 
 - 💞️ I’m looking to collaborate on any project that is available
-- 📫 for calls: 0744324383 whatsapp:0679967622 email:mrcmodze@gmail.com
+- 📫 for calls: 0744324383 whatsapp:0744324383 email:mrcmodze@gmail.com
 
-<!---
-CModze/CModze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
